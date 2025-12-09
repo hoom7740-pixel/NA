@@ -1,4 +1,4 @@
-# ❤️ Telegram Dating Bot
+# 🍷 Telegram Dating Bot
 
 A full-featured, premium Dating Bot for Telegram built with Node.js, Telegraf, and MongoDB. This bot provides a seamless tinder-like experience directly within Telegram, complete with profile creation, matching algorithms, monetization via Telegram Stars, and safety features.
 
