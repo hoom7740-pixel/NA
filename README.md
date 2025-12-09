@@ -7,15 +7,31 @@ A full-featured, premium Dating Bot for Telegram built with Node.js, Telegraf, a
 
 ## 📱 Demo
 
-![Demo](assets/Demo.gif)
+<div align="center">
+  <img src="assets/Demo.gif" width="300" />
+</div>
 
+<br>
 
-| Profile Creation | Swiping & Matching | Premium Features |
-|:---:|:---:|:---:|
-| ![Profile Creation](assets/img1.jpg) | ![Swiping & Matching](assets/img2.jpg) | ![Premium Features](assets/img3.jpg) |
-| *Sending a message* | *Swiping and getting a match* | *Buying more swipes with Stars* |
+<table>
+<tr>
+<th>Profile Creation</th>
+<th>Swiping & Matching</th>
+<th>Premium Features</th>
+</tr>
+<tr>
+<td><img src="assets/img1.jpg" width="180" /></td>
+<td><img src="assets/img2.jpg" width="180" /></td>
+<td><img src="assets/img3.jpg" width="180" /></td>
+</tr>
+<tr>
+<td><em>Sending a message</em></td>
+<td><em>Swiping and getting a match</em></td>
+<td><em>Buying more swipes with Stars</em></td>
+</tr>
+</table>
 
-
+<br>
 ## ✨ Features
 
 ### 👤 User Profiles
