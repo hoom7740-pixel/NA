@@ -1,12 +1,14 @@
 # 🍷 Telegram Dating Bot
 
-A full-featured, premium Dating Bot for Telegram built with Node.js, Telegraf, and MongoDB. This bot provides a seamless tinder-like experience directly within Telegram, complete with profile creation, matching algorithms, monetization via Telegram Stars, and safety features.
+A full-featured, premium Dating Bot for Telegram built with Node.js, Telegraf, and MongoDB. This bot provides a seamless Tinder-like experience directly within Telegram, complete with profile creation, matching algorithms, monetization via Telegram Stars, and safety features.
 
+---
 
 ## 📱 Demo
 
 <div align="center">
   <img src="assets/Demo.gif" width="300" />
+  <p><em>App demo: profile creation and matching flow</em></p>
 </div>
 
 <br>
@@ -29,8 +31,12 @@ A full-featured, premium Dating Bot for Telegram built with Node.js, Telegraf, a
 </tr>
 </table>
 
+<p align="center"><em>Swipe, match, and explore premium features</em></p>
 <br>
- ✨ Features
+
+---
+
+## ✨ Features
 
 ### 👤 User Profiles
 - **Comprehensive Setup**: Users can set their Name, Age, Gender, Bio, and upload 2-3 Photos.
@@ -55,12 +61,16 @@ A full-featured, premium Dating Bot for Telegram built with Node.js, Telegraf, a
 - **Privacy First**: Usernames are only revealed after a mutual match.
 - **Block Handling**: Graceful handling of users who block the bot.
 
+---
+
 ## 🛠️ Tech Stack
 
 - **Runtime**: [Node.js](https://nodejs.org/)
 - **Framework**: [Telegraf](https://telegraf.js.org/) (Telegram Bot API)
 - **Database**: [MongoDB](https://www.mongodb.com/) (Atlas recommended)
 - **Payments**: Telegram Stars (XTR)
+
+---
 
 ## 🚀 Installation
 
