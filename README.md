@@ -8,7 +8,7 @@ A full-featured, premium Dating Bot for Telegram built with Node.js, Telegraf, a
 
 <div align="center">
   <img src="assets/Demo.gif" width="300" />
-  <p><em>App demo: profile creation and matching flow</em></p>
+  <p><em>App demo video: profile creation and matching flow</em></p>
 </div>
 
 <br>
@@ -126,7 +126,7 @@ A full-featured, premium Dating Bot for Telegram built with Node.js, Telegraf, a
 telegram-dating-bot/
 ├── index.js           # Main bot logic and entry point
 ├── package.json       # Dependencies and scripts
-├── .env               # Environment variables (not committed)
+├── .env               # Environment variables
 └── README.md          # Project documentation
 ```
 
